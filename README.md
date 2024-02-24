@@ -1,4 +1,4 @@
-# ETH Bridge Zone
+# ETH Bridge Zone- Link
 
 [![CircleCI](https://circleci.com/gh/cosmos/peggy/tree/master.svg?style=svg)](https://circleci.com/gh/cosmos/peggy/tree/master)
 
